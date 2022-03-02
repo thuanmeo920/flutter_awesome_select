@@ -19,17 +19,17 @@ class S2ChoicesEmpty extends StatelessWidget {
             ),
             const SizedBox(height: 25),
             const Text(
-              'Whoops, no matches',
+              'Ôi không,',
               style: TextStyle(color: Colors.grey),
             ),
             const SizedBox(height: 7),
             const Text(
-              "We couldn't find any search result",
+              "Không có kết quả nào phù hợp",
               style: TextStyle(color: Colors.grey),
             ),
             const SizedBox(height: 7),
             const Text(
-              "Give it another go",
+              "Hãy thử tìm lại với nội dung khác",
               style: TextStyle(color: Colors.grey),
             )
           ],
