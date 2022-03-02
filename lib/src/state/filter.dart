@@ -19,7 +19,7 @@ class S2Filter extends ChangeNotifier {
   @override
   void dispose() {
     // Clean up the filter controller when the widget is disposed.
-    ctrl.dispose();
+    // ctrl.dispose();
     super.dispose();
   }
 
